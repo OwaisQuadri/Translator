@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rugged-choir-310017",
+  "private_key_id": "6f6d2222fdb02a1f164afc699e41e36a3600cfca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbTM76zR4b2b3J\n7cAADnPpIDYscZfoFUYja588WwhrZ3NcjV++u0k0dHt1DpGySbLcTAAZ3oet+Hvn\nVe35wDZcVl7t0woFDId8Fx2TI8x7aZjtly/zzEEfO0HVxbzzknrQ/21hDZyYLCVg\nWA5EWKz7ViJxIVq+zagU60g7eoy/wMlM7deVyBvDPuka9OSp2PFHNCZZxvlXB4iy\nx1llIyoji301RRSXKS65h+gjQ8vN4Z0k6AYlMqDyAkfHx3qAMoOtW8ET90aCAXDK\nXu8cdEkofRE4sYsROb1NGnGs8nOmRY23SqA0E8exBgEGE6uhLSD8Xci3oBKCpL4A\nIxg0/dg9AgMBAAECggEAA6qr1vvJhCaFmfmsamPs95PGEhHcug/pUy2q+agVk6gC\ne+yVMBUbowRecNkj9mXRwwYWJeydRZQdfgAHPLnkBRVl+HwFDpfCsCea9pq/00JS\nQccFMxHYwywpP2sDuji0Zr0mv9KfZqL6/yJ9Gou0cKe40igTmV5hY4MNnMsYye/+\nj+utrxpZ2PHNHsLPSYrBhKCApxnUcqt+g0grl5ZY0m77YX7xSCy/dCX2QeoYS7n8\nbcil0pVyGwyh+UAthbQxqzM0Es6MP1OSuHBuk+IHw0ANoX5Xb2lctsOUi/+oMJ8g\nx9SUvbAAfrgmssgNrCWfqYCQgd5feCIBJWJjGAIiqQKBgQDIiKQSLPod/jS9rZ66\nqLTKW1EMF3QBZFYgdj6PbaMc2Q36PflACbZF6l3m7qdEPvA5DTpGvk5gkPArSopu\nPn4jvDq0s/YXsL31Eo01ip9asL6mFXMCxDwEOelh+2ojk7Gv6qcsRqbTofFZOVbM\nzxLHqr+NRVzXxgqTXx7l+gb7RQKBgQDGQUQnTkc2T5uRWu8qyCFat3AbD5fxQX7P\nFrmQ79vFygwMMGU4qw71uyapap7LXtF3uBsBhDarUrZNcmbRl9tf3lKcjLRAKyND\ndwoH8CZwNDkyn1tU3RfolhE0B0xO3k1z+LxXIxjLeNERkBPPhnzA6mjd230FZYZo\nX+RgbE+8mQKBgQCf//X40o4V1De8h4S4JddqBYYbAbN7UNUvPWkZAz87yytN2JjA\nsX8PNboKgaxP1W/R9W3j9/+NKNeXkvf0kkQOuyaT+2qE6G4H1e95IsuWjqLu3PpQ\n4MWKEbLWjMTY8gS5+Z28w/pjrThmGkvZSfcP/HqtewRi3Q6fGywKDn33iQKBgFYq\nn7iFqSXNy8uNPk3V1clb2Pmp+Vv+H2NaeSSpW1fHzRyvHA9ZKZNb2B3iHUo+18O0\n3Of30tr7hAh9JHsMCWjNdBJehSkulpEH9/AjTFGQIRwDbuqffXi1YJzAX0YYEInL\nHfCxbGFjDVsYx8N2rFoch5+Fef0Sdyx+IQBXkwBhAoGAFrNHBI7Kn1PxcPcZY8hA\nK+CuSpYHRV2H2gvVioV78KCbMJ49hUM2pEkodUNM575u3ooe4pEvOvXmHDou1ke0\nxomEN/SGEyiGSc5wqm+RpDcoxuEFay+YtrXEhiXtgmJ2a4IVif6giillHTKD2T14\nM6f1l7i4E7VIDzGq9RV3f6Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate@rugged-choir-310017.iam.gserviceaccount.com",
+  "client_id": "101160347161678764475",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate%40rugged-choir-310017.iam.gserviceaccount.com"
+}

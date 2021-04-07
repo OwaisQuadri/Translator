@@ -1,21 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Google.Cloud.Translation.V2;
 
 namespace Translator
 {
+    
     public partial class Form1 : Form
     {
-        TranslationClient client = TranslationClient.Create();
+        
+        TranslationClient client ;
         public Form1()
         {
+            Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", "../../key.json");
+            client = TranslationClient.Create();
             InitializeComponent();
         }
         private void UpdateOutput()
