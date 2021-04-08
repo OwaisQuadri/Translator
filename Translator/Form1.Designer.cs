@@ -38,9 +38,11 @@ namespace Translator
             // 
             // fromText
             // 
+            this.fromText.EnableAutoDragDrop = true;
             this.fromText.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.fromText.Location = new System.Drawing.Point(12, 101);
             this.fromText.Name = "fromText";
+            this.fromText.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
             this.fromText.Size = new System.Drawing.Size(375, 225);
             this.fromText.TabIndex = 0;
             this.fromText.Text = "";
@@ -52,6 +54,7 @@ namespace Translator
             this.toText.Location = new System.Drawing.Point(413, 101);
             this.toText.Name = "toText";
             this.toText.ReadOnly = true;
+            this.toText.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
             this.toText.Size = new System.Drawing.Size(375, 225);
             this.toText.TabIndex = 0;
             this.toText.Text = "";
@@ -102,6 +105,7 @@ namespace Translator
             // 
             // Form1
             // 
+            this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
@@ -113,7 +117,7 @@ namespace Translator
             this.Controls.Add(this.fromText);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Translate";
             this.ResumeLayout(false);
 
         }
