@@ -14,6 +14,7 @@ namespace Translator
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", "../../key.json");
             client = TranslationClient.Create();
             InitializeComponent();
+            fromText.Select();
         }
         private void UpdateOutput()
         {
